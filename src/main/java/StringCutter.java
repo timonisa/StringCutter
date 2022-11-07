@@ -1,3 +1,4 @@
+
 public class StringCutter {
     public static String stringCutter(String inputStr){
         StringBuilder resultString;
