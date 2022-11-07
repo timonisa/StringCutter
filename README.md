@@ -2,10 +2,14 @@
  function that receives article and returns short title 
 
 Contains:
-Main class with interface to run function StringCutter and run testSuite for function
-StringCutter function
-StringCutterTest - testSuite for checking
-TestRunner - interface to run testSuite
+Main class with interface to run function StringCutter and run testSuite for function  
+
+StringCutter function  
+
+StringCutterTest - testSuite for checking  
+
+TestRunner - interface to run testSuite  
+
 
 Building jar:
 Need to install maven (from brew:brew install maven)
